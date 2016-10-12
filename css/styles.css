@@ -19,12 +19,33 @@ html {
 /****************************************
   Defaults
 *****************************************/
+body {
+  background-image: url(https://source.unsplash.com/random/1600x900);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover; }
+
 /****************************************
   Helpers
 *****************************************/
 /****************************************
   Layout
 *****************************************/
+.page-container {
+  position: relative;
+  height: 100vh; }
+
+#quote-display {
+  margin: 0 auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 50%;
+  background-color: rgba(255, 255, 255, 0.4); }
+
 /****************************************
   Components
 *****************************************/
