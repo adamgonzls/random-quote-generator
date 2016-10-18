@@ -9,7 +9,7 @@ https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-pract
 html {
     box-sizing: border-box;
     color: #444;
-    font: 12pt 'Open Sans', Arial;
+    font: 12pt monospace, 'Open Sans', Arial;
     font-weight: 300;
 }
 
@@ -27,6 +27,7 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  // font-family: monospace;
 }
 
 /****************************************
@@ -51,21 +52,44 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   // height: 500px;
-  width: 50%;
+  max-width: 50%;
   background-color: rgba(255, 255, 255, 0.7);
   // border: 5px solid black;
   outline: 5px solid black;
   outline-offset: -10px;
   border-radius: 5px;
   padding: 30px;
-  font-family: monospace;
-  text-align: center;
-}
-
-#quote-display {
+  text-align: right;
   line-height: 1.5em;
 }
 
+#quote-display {
+  font-weight: bold;
+  
+}
+
 #quote-author {
-  text-align: right;
+  // text-align: right;
+}
+
+.author-row {
+  & > div {
+    display: inline-block;
+  }
+  .button-container {
+    text-align: center;
+    button {
+      border: none;
+      border-radius: 5px;
+      font-family: monospace;
+      color: transparent;
+      background-color: transparent;
+      transition: all .5s ease-in-out;
+      outline: none;
+      &:hover {
+        color: black;
+        background-color: white;
+      }
+    }
+  }
 }
