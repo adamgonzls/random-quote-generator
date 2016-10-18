@@ -56,6 +56,61 @@ var quotes = [
 		quote: "The theory seems to be that as long as a man is a failure he is one of God's children, but that as soon as he succeeds he is taken over by the Devil.",
 		author: "H.L. Mencken",
 		profession: "American journalist and essayist"
+	},
+	{
+		quote: "There are two great days in a person’s life- the day we are born and the day we discover why.",
+		author: "William Barclay",
+		profession: "Scottish theologian and author"
+	},
+	{
+		quote: "Figuring out who you are is the whole point of the human experience.",
+		author: "Anna Quindlen",
+		profession: "American journalist and author"
+	},
+	{
+		quote: "You don't lead by pointing and telling people some place to go. You lead by going to that place and making a case.",
+		author: "Ken Kesey",
+		profession: "American author"
+	},
+	{
+		quote: "I walk slowly, but I never walk backward.",
+		author: "Abraham Lincoln",
+		profession: "16th U.S. president"
+	},
+	{
+		quote: "We judge ourselves by what we feel capable of doing, while others judge us by what we have already done.",
+		author: "Henry Wadsworth Longfellow",
+		profession: "American poet and educator"
+	},
+	{
+		quote: "Some men have thousands of reasons why they cannot do what they want to, when all they need is one reason why they can.",
+		author: "Willis R. Whitney",
+		profession: "American chemist"
+	},
+	{
+		quote: "Too many people overvalue what they are not and undervalue what they are.",
+		author: "Malcolm Forbes",
+		profession: "American magazine publisher"
+	},
+	{
+		quote: "The important work of moving the world forward does not wait to be done by perfect men.",
+		author: "George Eliot",
+		profession: "British writer"
+	},
+	{
+		quote: "Freedom is man's capacity to take a hand in his own development. It is our capacity to mold ourselves.",
+		author: "Rollo May",
+		profession: "American psychologist"
+	},
+	{
+		quote: "Imagination is more important than knowledge.",
+		author: "Albert Einstein",
+		profession: "German-born physicist"
+	},
+	{
+		quote: "A failure is not always a mistake, it may simply be the best one can do under the circumstances. The real mistake is to stop trying.",
+		author: "B.F. Skinner",
+		profession: "American psychologist, inventor and author"
 	}
 ]
 
