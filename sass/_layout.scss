@@ -27,7 +27,6 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  // height: 100vh;
 }
 
 /****************************************
@@ -42,7 +41,10 @@ body {
   height: 100vh;
 }
 
-#quote-display {
+/****************************************
+  Components
+*****************************************/
+#quote-container {
   margin: 0 auto;
   position: absolute;
   top: 50%;
@@ -50,9 +52,20 @@ body {
   transform: translate(-50%, -50%);
   // height: 500px;
   width: 50%;
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0.7);
+  // border: 5px solid black;
+  outline: 5px solid black;
+  outline-offset: -10px;
+  border-radius: 5px;
+  padding: 30px;
+  font-family: monospace;
+  text-align: center;
 }
 
-/****************************************
-  Components
-*****************************************/
+#quote-display {
+  line-height: 1.5em;
+}
+
+#quote-author {
+  text-align: right;
+}
