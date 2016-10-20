@@ -111,6 +111,70 @@ var quotes = [
 		quote: "A failure is not always a mistake, it may simply be the best one can do under the circumstances. The real mistake is to stop trying.",
 		author: "B.F. Skinner",
 		profession: "American psychologist, inventor and author"
+	},
+	{
+		quote: "Has fortune dealt you some bad cards. Then let wisdom make you a good gamester.",
+		author: "Francis Quarles",
+		profession: "British poet"
+	},
+	{
+		quote: "I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor.",
+		author: "Henry David Thoreau",
+		profession: "American author and poet"
+	},
+	{
+		quote: "Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are.",
+		author: "Bernice Johnson Reagon",
+		profession: "American singer, composer, scholar and social activist"
+	},
+	{
+		quote: "Write the bad things that are done to you in sand, but write the good things that happen to you on a piece of marble.",
+		author: "Arabic proverb"
+	},
+	{
+		quote: "To avoid criticism do nothing, say nothing, be nothing.",
+		author: "Elbert Hubbard",
+		profession: "American writer, artist and philosopher"
+	},
+	{
+		quote: "I still find each day too short for all the thoughts I want to think, all the walks I want to take, all the books I want to read, and all the friends I want to see.",
+		author: "John Burroughs",
+		profession: "American naturalist and essayist"
+	},
+	{
+		quote: "Procrastination is opportunity's assassin.",
+		author: "Victor Kiam",
+		profession: "American businessman"
+	},
+	{
+		quote: "It may be that those who do most, dream most.",
+		author: "Stephen Butler Leacock",
+		profession: "British-Canadian political economist and humorist"
+	},
+	{
+		quote: "In order to be irreplaceable one must always be different.",
+		author: "Coco Chanel",
+		profession: "French fashion designer"
+	},
+	{
+		quote: "The future belongs to those who believe in the beauty of their dreams.",
+		author: "Eleanor Roosevelt",
+		profession: "former U.S. first lady"
+	},
+	{
+		quote: "What we see depends mainly on what we look for.",
+		author: "John Lubbock",
+		profession: "British banker, politician, naturalist and archaeologist"
+	},
+	{
+		quote: "Most people never run far enough on their first wind to find out they've got a second.",
+		author: "William James",
+		profession: "American psychologist and philosopher"
+	},
+	{
+		quote: "I'll walk where my own nature would be leading: It vexes me to choose another guide.",
+		author: "Emily Bront&euml;",
+		profession: "British novelist and poet"
 	}
 ]
 
