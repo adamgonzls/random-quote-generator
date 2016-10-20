@@ -22,13 +22,6 @@ html {
 /****************************************
   Defaults
 *****************************************/
-body {
-  background-color: white;
-  background-image: url(https://source.unsplash.com/random/1600x900);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-}
 
 /****************************************
   Helpers
@@ -38,6 +31,11 @@ body {
   Layout
 *****************************************/
 .page-container {
+  background-color: white;
+  background-image: url(https://source.unsplash.com/random/1600x900);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   position: relative;
   height: 100vh;
 }
@@ -46,6 +44,11 @@ body {
   Components
 *****************************************/
 #quote-container {
+  @include less-than(801px) {
+    width: 90%;
+    max-width: 90%;
+    padding: 20px;
+  }
   margin: 0 auto;
   position: absolute;
   top: 50%;
