@@ -33,6 +33,9 @@ html {
   background-size: cover;
   position: relative;
   height: 100vh; }
+  @media screen and (max-width: 601px) {
+    .page-container {
+      background-image: url(https://source.unsplash.com/random/600x400); } }
 
 /****************************************
   Components
@@ -52,7 +55,7 @@ html {
   padding: 30px;
   text-align: right;
   line-height: 1.5em; }
-  @media screen and (max-width: 801px) {
+  @media screen and (max-width: 601px) {
     #quote-container {
       width: 90%;
       max-width: 90%;
