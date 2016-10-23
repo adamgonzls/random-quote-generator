@@ -244,4 +244,5 @@ function newQuote() {
 	document.getElementById('quote-author').innerHTML = "-" + quotes[randomNumber].author;
 }
 newQuote();
+setInterval('newQuote()', 20000);
 
