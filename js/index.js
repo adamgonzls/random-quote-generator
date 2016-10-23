@@ -175,6 +175,66 @@ var quotes = [
 		quote: "I'll walk where my own nature would be leading: It vexes me to choose another guide.",
 		author: "Emily Bront&euml;",
 		profession: "British novelist and poet"
+	},
+	{
+		quote: "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+		author: "Thomas Edison",
+		profession: "American inventor"
+	},
+	{
+		quote: "Worry does not empty tomorrow of its sorrow; it empties today of its strength.",
+		author: "Corrie ten Boom",
+		profession: "Dutch writer"
+	},
+	{
+		quote: "In times of change, learners inherit the earth; while the learned find themselves beautifully equipped to deal with a world that no longer exists.",
+		author: "Eric Hoffer",
+		profession: "American social writer"
+	},
+	{
+		quote: "Well done is better than well said.",
+		author: "Benjamin Franklin",
+		profession: ""
+	},
+	{
+		quote: "A ship in harbor is safe, but that is not what ships are built for.",
+		author: "William G.T. Shedd",
+		profession: ""
+	},
+	{
+		quote: "If fate means you to lose, give him a good fight anyhow.",
+		author: "William McFee",
+		profession: "British-American writer"
+	},
+	{
+		quote: "The man who insists upon seeing with perfect clearness before he decides, never decides. Accept life, and you must accept regret.",
+		author: "Henri Frédéric Amiel",
+		profession: "Swiss philosopher, poet and critic"
+	},
+	{
+		quote: "That which grows fast, withers as rapidly. That which grows slowly, endures.",
+		author: "Josiah Gilbert Holland",
+		profession: "American writer and poet"
+	},
+	{
+		quote: "Action is a great restorer and builder of confidence. Inaction is not only the result, but the cause, of fear.",
+		author: "Norman Vincent Peale",
+		profession: "American minister and author"
+	},
+	{
+		quote: "Life isn't about finding yourself. Life is about creating yourself.",
+		author: "George Bernard Shaw",
+		profession: "Irish playwright"
+	},
+	{
+		quote: "Optimism is essential to achievement and it is also the foundation of courage and true progress.",
+		author: "Nicholas Murray Butler",
+		profession: "American diplomat and educator"
+	},
+	{
+		quote: "You may be disappointed if you fail, but you are doomed if you don't try.",
+		author: "Beverly Sills",
+		profession: "American opera singer and opera manager"
 	}
 ]
 
