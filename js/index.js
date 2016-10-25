@@ -46,11 +46,13 @@ var quotes = [
 	},
 	{
 		quote: "Winning is not a sometime thing; it’s an all time thing. You don’t win once in a while, you don’t do things right once in a while, you do them right all the time. Winning is a habit, Unfortunately, so is losing.",
-		author: "Vince Lombardi"
+		author: "Vince Lombardi",
+		profession: ""
 	},
 	{
 		quote: "Inaction Breeds Doubt And Fear. Action Breeds Confidence And Courage. If You Want To Conquer Fear, Do Not Sit Home And Think About It. Go Out And Get Busy.",
-		author: "Dale Breckenridge Carnegie"
+		author: "Dale Breckenridge Carnegie",
+		profession: ""
 	},
 	{
 		quote: "The theory seems to be that as long as a man is a failure he is one of God's children, but that as soon as he succeeds he is taken over by the Devil.",
@@ -129,7 +131,8 @@ var quotes = [
 	},
 	{
 		quote: "Write the bad things that are done to you in sand, but write the good things that happen to you on a piece of marble.",
-		author: "Arabic proverb"
+		author: "Arabic proverb",
+		profession: ""
 	},
 	{
 		quote: "To avoid criticism do nothing, say nothing, be nothing.",
@@ -235,6 +238,131 @@ var quotes = [
 		quote: "You may be disappointed if you fail, but you are doomed if you don't try.",
 		author: "Beverly Sills",
 		profession: "American opera singer and opera manager"
+	},
+	{
+		quote: "Here is the world. Beautiful and terrible things will happen. Don't be afraid.",
+		author: "Frederick Buechner",
+		profession: "American writer and theologian"
+	},
+	{
+		quote: "You may have a fresh start any moment you choose, for this thing that we call ‘failure’ is not the falling down, but the staying down.",
+		author: "Mary Pickford",
+		profession: ""
+	},
+	{
+		quote: "Every man should keep a fair-sized cemetery in which to bury the faults of his friends.",
+		author: "Henry Ward Beecher",
+		profession: "American clergyman and lecturer"
+	},
+	{
+		quote: "The man who offers an insult writes it in sand, but for the man who receives it, it's chiseled in bronze.",
+		author: "Giovannino Guareschi",
+		profession: "Italian journalist"
+	},
+	{
+		quote: "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+		author: "Scott Adams",
+		profession: "American cartoonist"
+	},
+	{
+		quote: "Success and failure. We think of them as opposites, but they're really not. They're companions -- the hero and the sidekick.",
+		author: "Laurence Shames",
+		profession: "American writer"
+	},
+	{
+		quote: "You are never too old to set another goal or to dream a new dream.",
+		author: "C.S. Lewis",
+		profession: "Irish writer and theologian"
+	},
+	{
+		quote: "If you hear a voice within you say, 'You cannot paint,' then by all means paint, and that voice will be silenced.",
+		author: "Vincent Van Gogh",
+		profession: ""
+	},
+	{
+		quote: "Formal education will make you a living; self-education will make you a fortune.",
+		author: "Jim Rohn",
+		profession: "American entrepreneur and motivational speaker"
+	},
+	{
+		quote: "High expectations are the key to everything.",
+		author: "Sam Walton",
+		profession: "American businessman"
+	},
+	{
+		quote: "I never dreamed about success. I worked for it.",
+		author: "Estee Lauder",
+		profession: "American businesswoman"
+	},
+	{
+		quote: "Our finest moments are most likely to occur when we are feeling deeply uncomfortable, unhappy or unfulfilled. For it is only in such moments, propelled by our discomfort, that we are likely to step out of our ruts and start searching for different ways or truer answers.",
+		author: "M. Scott Peck",
+		profession: "American psychiatrist"
+	},
+	{
+		quote: "I can accept failure; everyone fails at something. But I can't accept not trying.",
+		author: "Michael Jordan",
+		profession: "American professional basketball player"
+	},
+	{
+		quote: "It is good to love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is well done.",
+		author: "Vincent van Gogh",
+		profession: ""
+	},
+	{
+		quote: "Your present circumstances don't determine where you can go; they merely determine where you start.",
+		author: "Nido Qubein",
+		profession: "businessman and motivational speaker"
+	},
+	{
+		quote: "He who is not every day conquering some fear has not learned the secret of life.",
+		author: "Ralph Waldo Emerson",
+		profession: "Writer"
+	},
+	{
+		quote: "Have patience. All things are difficult before they become easy.",
+		author: "Saadi",
+		profession: "poet"
+	},
+	{
+		quote: "Perfection is not attainable, but if we chase perfection, we can catch excellence.",
+		author: "Vince Lombardi",
+		profession: "football coach"
+	},
+	{
+		quote: "Is he alone who has courage on his right hand and faith on his left hand?",
+		author: "Charles Lindbergh",
+		profession: "aviator"
+	},
+	{
+		quote: "Restlessness and discontent are the first necessities of progress.",
+		author: "Thomas A. Edison",
+		profession: ""
+	},
+	{
+		quote: "Growth demands a temporary surrender of security.",
+		author: "Gail Sheehy",
+		profession: ""
+	},
+	{
+		quote: "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+		author: "Helen Keller",
+		profession: "author and political activist"
+	},
+	{
+		quote: "Don't expect to build up the weak by pulling down the strong.",
+		author: "Calvin Coolidge",
+		profession: ""
+	},
+	{
+		quote: "Only he who attempts the absurd is capable of achieving the impossible.",
+		author: "Miguel de Unamuno",
+		profession: "writer and philosopher"
+	},
+	{
+		quote: "Goals allow you to control the direction of change in your favor.",
+		author: "Brian Tracy",
+		profession: "entrepreneur"
 	}
 ]
 
