@@ -363,6 +363,76 @@ var quotes = [
 		quote: "Goals allow you to control the direction of change in your favor.",
 		author: "Brian Tracy",
 		profession: "entrepreneur"
+	},
+	{
+		quote: "Too many people are quick to dream big, but slow to act on it.",
+		author: "Edmond Mbiaka",
+		profession: "Writer"
+	},
+	{
+		quote: "Don’t find fault – find a remedy.",
+		author: "Henry Ford",
+		profession: "Industrialist"
+	},
+	{
+		quote: "Who is the happier man, he who has braved the storm of life and lived or he who has stayed securely on shore and merely existed?",
+		author: "Hunter S. Thompson",
+		profession: "journalist and writer"
+	},
+	{
+		quote: "Practice is the hardest part of learning, and training is the essence of transformation.",
+		author: "Ann Voskamp",
+		profession: ""
+	},
+	{
+		quote: "Obstacles can't stop you. Problems can't stop you. Most important of all, other people can't stop you. Only you can stop you.",
+		author: "Jeffrey Gitomer",
+		profession: ""
+	},
+	{
+		quote: "Failure is the opportunity to begin again more intelligently.",
+		author: "Henry Ford",
+		profession: ""
+	},
+	{
+		quote: "Never confuse a single defeat with a final defeat.",
+		author: "F. Scott Fitzgerald",
+		profession: "Author"
+	},
+	{
+		quote: "Failure should be our teacher, not our undertaker. Failure is delay, not defeat. It is a temporary detour, not a dead-end street. Failure is something we can avoid only by saying nothing, doing nothing, and being nothing.",
+		author: "Denis Waitley",
+		profession: ""
+	},
+	{
+		quote: "If you want something you have never had, be prepared to do something you have never done.",
+		author: "Author Unknown",
+		profession: ""
+	},
+	{
+		quote: "Your most powerful weapon against limiting thoughts is your willingness to clarify and envision what you truly want for your life.",
+		author: "David McNally",
+		profession: ""
+	},
+	{
+		quote: "Having just the vision's no solution; everything depends on execution.",
+		author: "Stephen Sondheim",
+		profession: "Composer and Lyricist"
+	},
+	{
+		quote: "We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.",
+		author: "Carl Sagan",
+		profession: "Astronomer"
+	},
+	{
+		quote: "To improve is to change, so to be perfect is to have changed often.",
+		author: "Winston Churchill",
+		profession: "Statesman"
+	},
+	{
+		quote: "There are a lot of ways to become a failure, but never taking a chance is the most successful.",
+		author: "Anonymous",
+		profession: ""
 	}
 ]
 
