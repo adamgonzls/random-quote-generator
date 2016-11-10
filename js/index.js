@@ -433,6 +433,61 @@ var quotes = [
 		quote: "There are a lot of ways to become a failure, but never taking a chance is the most successful.",
 		author: "Anonymous",
 		profession: ""
+	},
+	{
+		quote: "Individual commitment to a group effort -- that is what makes a team work, a company work, a society work, a civilization work.",
+		author: "Vince Lombardi",
+		profession: "Coach"
+	},
+	{
+		quote: "Unless you try to do something beyond what you have already mastered, you will never grow.",
+		author: "Ronald Osborn",
+		profession: "Teacher and Writer"
+	},
+	{
+		quote: "Mistakes are the growing pains of wisdom.",
+		author: "William George Jordan",
+		profession: "Writer and Editor"
+	},
+	{
+		quote: "The only way you are going to have success is to have lots of failures first.",
+		author: "Sergey Brin",
+		profession: "Computer Scientist and Entrepreneur"
+	},
+	{
+		quote: "Whatever it takes to finish things, finish. You will learn more from a glorious failure than you ever will from something you never finished.",
+		author: "Neil Gaiman",
+		profession: "Writer"
+	},
+	{
+		quote: "Growth is an erratic forward movement: two steps forward, one step back. Remember that and be very gentle with yourself.",
+		author: "Julia Cameron",
+		profession: "Writer and Teacher"
+	},
+	{
+		quote: "Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don't quit.",
+		author: "Conrad Hilton",
+		profession: "Hotelier"
+	},
+	{
+		quote: "The greatest of faults, I should say, is to be conscious of none.",
+		author: "Thomas Carlyle",
+		profession: "Historian and Philosopher"
+	},
+	{
+		quote: "I was taught that the way of progress is neither swift nor easy.",
+		author: "Marie Curie",
+		profession: "Physicist and Chemist"
+	},
+	{
+		quote: "The greatest mistake you can make in life is to continually be afraid you will make one.",
+		author: "Elbert Hubbard",
+		profession: "Writer and Artist"
+	},
+	{
+		quote: "The superior man is modest in his speech but exceeds in his actions.",
+		author: "Confucius",
+		profession: "Philosopher"
 	}
 ]
 
