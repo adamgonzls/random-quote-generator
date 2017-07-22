@@ -551,11 +551,14 @@ var quotes = [
 	}
 ]
 
+var newQuoteButton = document.getElementById("newQuoteButton");
+newQuoteButton.addEventListener("click", newQuote);
+
 function newQuote() {
 	var randomNumber = Math.floor(Math.random() * (quotes.length));
 	document.getElementById('quote-display').innerHTML = quotes[randomNumber].quote;
 	document.getElementById('quote-author').innerHTML = "-" + quotes[randomNumber].author;
 }
-newQuote();
-setInterval('newQuote()', 20000);
 
+newQuote();
+setInterval("newQuote()", 20000);
