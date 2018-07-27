@@ -2,7 +2,7 @@ var gulp 					= require('gulp');
 var browserSync 	= require('browser-sync').create();
 var sass 					= require('gulp-sass');
 var autoprefixer 	= require('gulp-autoprefixer');
-var deploy				= require('gulp-gh-pages');
+var ghPages				= require('gulp-gh-pages');
 
 // static server + watch scss/html files
 gulp.task('serve', ['sass'], function() {
@@ -31,8 +31,8 @@ gulp.task('sass', function() {
 });
 
 gulp.task('deploy', function() {
-	return gulp.src("./public/**/*");
-	.pipe(ghPages())
+	return gulp.src("./public/**/*")
+	.pipe(ghPages());
 })
 
 gulp.task('default', ['serve']);
