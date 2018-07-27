@@ -2,16 +2,17 @@ var gulp 					= require('gulp');
 var browserSync 	= require('browser-sync').create();
 var sass 					= require('gulp-sass');
 var autoprefixer 	= require('gulp-autoprefixer');
+var deploy				= require('gulp-gh-pages');
 
 // static server + watch scss/html files
 gulp.task('serve', ['sass'], function() {
 	browserSync.init({
-		server: "./"
+		server: "./public"
 	});
 
 	gulp.watch("./scss/*.scss", ['sass']);
-	gulp.watch("./js/*.js").on('change', browserSync.reload);
-	gulp.watch("./*.html").on('change', browserSync.reload);
+	gulp.watch("./public/*.js").on('change', browserSync.reload);
+	gulp.watch("./public/*.html").on('change', browserSync.reload);
 });
 
 // compile sass & auto-inject into browsers
@@ -25,8 +26,12 @@ gulp.task('sass', function() {
 		browsers: ['last 5 versions'],
 		cascade: false
 	}))
-	.pipe(gulp.dest('./css'))
+	.pipe(gulp.dest('./public'))
 	.pipe(browserSync.stream());
 });
+
+gulp.task('deploy', function() {
+	return gulp.src("./public/**/*");
+})
 
 gulp.task('default', ['serve']);
