@@ -1,2 +1,2 @@
 #Random Quote Generator
-## Technologies Used: Gulp, npm, JavaScript, Sass
+## Technologies Used: Gulp, npm, JavaScript, SCSS
