@@ -554,11 +554,28 @@ var quotes = [
 var newQuoteButton = document.getElementById("newQuoteButton");
 newQuoteButton.addEventListener("click", newQuote);
 
+seconds = 20;
+
+function resetTimer() {
+	seconds = 20;
+}
+
+setInterval(timer, 1000);
+
+function timer() {
+	--seconds;
+	console.log(seconds);
+	if (seconds == 0) {
+		newQuote();
+		resetTimer();
+	}	
+}
+
 function newQuote() {
 	var randomNumber = Math.floor(Math.random() * (quotes.length));
 	document.getElementById('quote-display').innerHTML = quotes[randomNumber].quote;
 	document.getElementById('quote-author').innerHTML = "-" + quotes[randomNumber].author;
+	resetTimer();
 }
 
 newQuote();
-setInterval("newQuote()", 20000);
