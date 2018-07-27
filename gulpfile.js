@@ -9,7 +9,7 @@ gulp.task('serve', ['sass'], function() {
 		server: "./"
 	});
 
-	gulp.watch("./sass/*.scss", ['sass']);
+	gulp.watch("./scss/*.scss", ['sass']);
 	gulp.watch("./js/*.js").on('change', browserSync.reload);
 	gulp.watch("./*.html").on('change', browserSync.reload);
 });
@@ -18,7 +18,7 @@ gulp.task('serve', ['sass'], function() {
 
 //sass
 gulp.task('sass', function() {
-	return gulp.src('./sass/*.scss')
+	return gulp.src('./scss/*.scss')
 	.pipe(sass().on('error', sass.logError))
 //pipe to autoprefixer
 	.pipe(autoprefixer({
