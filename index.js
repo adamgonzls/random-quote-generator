@@ -490,64 +490,99 @@ var quotes = [
 		profession: "Philosopher"
 	},
 	{
-		quote:"Inspiration and growth only come from adversity and from challenge — from stepping away from what's comfortable and familiar and stepping out into the unknown.",
+		quote: "Inspiration and growth only come from adversity and from challenge — from stepping away from what's comfortable and familiar and stepping out into the unknown.",
 		author: "Ben Saunders",
 		profession: ""
 	},
 	{
-		quote:"Growth demands a temporary surrender of security.",
+		quote: "Growth demands a temporary surrender of security.",
 		author: "Gail Sheehy",
 		profession: "Passages"
 	},
 	{
-		quote:"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.",
+		quote: "In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result.",
 		author: "James Allen",
 		profession: "Writer"
 	},
 	{
-		quote:"Character, not circumstances, makes the man.",
+		quote: "Character, not circumstances, makes the man.",
 		author: "Booker T. Washington",
 		profession: "Educator, Writer and Orator"
 	},
 	{
-		quote:"Any fool can criticize, condemn and complain -- and most fools do. But it takes character and self-control to be understanding and forgiving.",
+		quote: "Any fool can criticize, condemn and complain -- and most fools do. But it takes character and self-control to be understanding and forgiving.",
 		author: "Dale Carnegie",
 		profession: "Writer, Lecturer and Leadership Consultant"
 	},
 	{
-		quote:"Progress everywhere today does seem to come so very heavily disguised as chaos.",
+		quote: "Progress everywhere today does seem to come so very heavily disguised as chaos.",
 		author: "Joyce Grenfell",
 		profession: "Actress"
 	},
 	{
-		quote:"Failure is only the opportunity more intelligently to begin again.",
+		quote: "Failure is only the opportunity more intelligently to begin again.",
 		author: "Henry Ford",
 		profession: "Industrialist"
 	},
 	{
-		quote:"You may be disappointed if you fail, but you are doomed if you don't try.",
+		quote: "You may be disappointed if you fail, but you are doomed if you don't try.",
 		author: "Beverly Sills",
 		profession: ""
 	},
 	{
-		quote:"Let us not seek to fix the blame for the past -- let us accept our own responsibility for the future.",
+		quote: "Let us not seek to fix the blame for the past -- let us accept our own responsibility for the future.",
 		author: "John F. Kennedy",
 		profession: "35th US President"
 	},
 	{
-		quote:"Mistakes are part of the dues one pays for a full life.",
+		quote: "Mistakes are part of the dues one pays for a full life.",
 		author: "Sophia Loren",
 		profession: "Actress"
 	},
 	{
-		quote:"When you get into a tight place, and everything goes against you till it seems as if you couldn't hold on a minute longer, never give up then, for that's just the place and time that the tide'll turn.",
+		quote: "When you get into a tight place, and everything goes against you till it seems as if you couldn't hold on a minute longer, never give up then, for that's just the place and time that the tide'll turn.",
 		author: "Harriet Beecher Stowe",
 		profession: "Abolitionist and Writer"
 	},
 	{
-		quote:"There is no failure except in no longer trying.",
+		quote: "There is no failure except in no longer trying.",
 		author: "Elbert Hubbard",
 		profession: "Writer, Publisher and Artist"
+	},
+	{
+		quote: "Success is the sum of small efforts, repeated day in and day out.",
+		author: "Robert Collier",
+		profession: "Writer"
+	},
+	{
+		quote: "Everybody thinks of changing humanity, and nobody thinks of changing himself.",
+		author: "Leo Tolstoy",
+		profession: "Writer"
+	},
+	{
+		quote: "Live daringly, boldly, fearlessly. Taste the relish to be found in competition -- in having to put forth the best within you to match the deeds of risk-taking, hard-working competitors.",
+		author: "Henry J. Kaiser",
+		profession: "Industrialist"
+	},
+	{
+		quote: "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
+		author: "Charles Du Bos",
+		profession: "Writer and Critic"
+	},
+	{
+		quote: "You don't learn to walk by following rules, you learn by doing and by falling over.",
+		author: "Richard Branson",
+		profession: "Entrepreneur, Investor and Philanthropist"
+	},
+	{
+		quote: "Destiny is not a matter of chance; it is a matter of choice. It is not a thing to be waited for; it is a thing to be achieved.",
+		author: "William Jennings Bryan",
+		profession: "Political Leader and Orator"
+	},
+	{
+		quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+		author: "Nelson Mandela",
+		profession: "Activist and Political Leader"
 	}
 ]
 
