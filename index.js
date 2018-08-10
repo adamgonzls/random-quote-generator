@@ -583,6 +583,11 @@ var quotes = [
 		quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
 		author: "Nelson Mandela",
 		profession: "Activist and Political Leader"
+	},
+	{
+		quote: "The Lord made us all out of iron. Then he turns up the heat to forge some of us into steel.",
+		author: "Marie Osmond",
+		profession: "Singer and Actress"
 	}
 ]
 
