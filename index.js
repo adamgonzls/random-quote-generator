@@ -588,6 +588,11 @@ var quotes = [
 		quote: "The Lord made us all out of iron. Then he turns up the heat to forge some of us into steel.",
 		author: "Marie Osmond",
 		profession: "Singer and Actress"
+	},
+	{
+		quote: "Restlessness and discontent are the first necessities of progress.",
+		author: "Thomas Edison",
+		profession: "American inventor"
 	}
 ]
 
