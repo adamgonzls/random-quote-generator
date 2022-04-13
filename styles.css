@@ -19,6 +19,9 @@ html {
 /****************************************
   Defaults
 *****************************************/
+p {
+  margin: 0; }
+
 /****************************************
   Helpers
 *****************************************/
@@ -27,15 +30,11 @@ html {
 *****************************************/
 .page-container {
   background-color: white;
-  background-image: url(https://source.unsplash.com/random/1600x900);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
   height: 100vh; }
-  @media screen and (max-width: 601px) {
-    .page-container {
-      background-image: url(https://source.unsplash.com/random/600x400); } }
 
 /****************************************
   Components
