@@ -21,4 +21,7 @@ npm install
 
 # task runner
 gulp
+
+# deploy to gh-pages
+gulp deploy
 ```
